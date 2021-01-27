@@ -1,5 +1,16 @@
 #include <iostream>
+using namespace std;
+
+
 
 int main() {
-  std::cout << "Hello World!\n";
-}
+
+char b;
+b = 65;
+
+cout << b << endl;
+
+b = 66;
+
+cout << b << endl;
+} 
